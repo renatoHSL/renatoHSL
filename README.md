@@ -1,16 +1,34 @@
-### Hi there 👋
+### Olá! Segue um pouco sobre mim:
 
-<!--
-**renatoHSL/renatoHSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<table align='center'>
+  <tbody>
+    <tr>
+      <td align="center" width="60%">
+         <div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## **Front-end:**
+
+   -   **React JS**
+   -   **JavaScript**
+   -   **HTML5**
+   -   **CSS3**
+
+</div>
+      </td>
+      <td align="center" width="40%">
+         
+<div>
+
+   ## **Back-end:**
+
+   -   **Node.js**
+   -   **MySQL**
+   -   **Docker**
+   -   
+</div>
+              </td>
+   </tr>
+    
+  </tbody>
+</table>
