@@ -36,8 +36,8 @@
   </tbody>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=renatoHSL&show_icons=true&theme=tokyonight&count_private=true" height="180em" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoHSL&layout=compact&theme=tokyonight" height="180em" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=renatoHSL&show_icons=true&theme=tokyonight&count_private=true" width="45%" height="180em" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoHSL&layout=compact&theme=tokyonight" width="45%" height="180em" align="center">
 
 
 
