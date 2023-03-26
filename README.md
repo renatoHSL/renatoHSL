@@ -2,6 +2,7 @@
 🚀 Atualmente estudando POO e SOLID com Typescript<br>
 🌎 Rio de Janeiro - Brasil<br>
 📓 Cursando Ciências Economicas Bacharelado<br>
+📧 renato92.hora@gmail.com
 
 
 
