@@ -1,4 +1,12 @@
 ### Olá! Segue um pouco sobre mim:
+🚀 Atualmente estudando POO e SOLID com Typecript
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoHSL)](https://github.com/renatoHSL/github-readme-stats)
+
+
+
 
 
 <table align='center'>
