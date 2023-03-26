@@ -1,7 +1,7 @@
 ### Olá! Segue um pouco sobre mim:
 🚀 Atualmente estudando POO e SOLID com Typescript<br>
 🌎 Rio de Janeiro - Brasil<br>
-📚 Cursando Ciências Economicas Bacharelado<br>
+📓 Cursando Ciências Economicas Bacharelado<br>
 
 
 
