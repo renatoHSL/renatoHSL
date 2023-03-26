@@ -1,11 +1,5 @@
 ### Olá! Segue um pouco sobre mim:
-🚀 Atualmente estudando POO e SOLID com Typecript
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoHSL)](https://github.com/renatoHSL/github-readme-stats)
-
-
+🚀 Atualmente estudando POO e SOLID com Typescript
 
 
 
@@ -33,10 +27,14 @@
    -   **Node.js**
    -   **MySQL**
    -   **Docker**
-   -   
+   -   **Typescript**
+  
 </div>
               </td>
    </tr>
     
   </tbody>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoHSL&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoHSL&layout=compact&theme=tokyonight)](https://github.com/renatoHSL/github-readme-stats)
