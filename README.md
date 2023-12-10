@@ -1,5 +1,5 @@
 ### Olá! Segue um pouco sobre mim:
-🚀 Atualmente estudando POO e SOLID com Typescript<br>
+🚀 Atualmente estudando Python<br>
 🌎 Rio de Janeiro - Brasil<br>
 📓 Cursando Ciências Economicas Bacharelado<br>
 📧 renato92.hora@gmail.com
