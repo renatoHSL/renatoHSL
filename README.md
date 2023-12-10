@@ -28,9 +28,9 @@
 
    ## **Back-end:**
 
+   -   **Python**
    -   **Node.js**
-   -   **MySQL**
-   -   **Docker**
+   -   **MySQL**   
    -   **Typescript**
   
 </div>
