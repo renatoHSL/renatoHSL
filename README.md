@@ -1,7 +1,7 @@
 ### Olá! Segue um pouco sobre mim:
-🚀 Atualmente estudando Python<br>
+🚀 Atualmente estudando Python para seguir uma carreria de Cientista de dados com foco em IA<br>
 🌎 Rio de Janeiro - Brasil<br>
-📓 Cursando Ciências Economicas Bacharelado<br>
+📓 Bacharel em Ciências Economicas<br>
 📧 renato92.hora@gmail.com
 
 
